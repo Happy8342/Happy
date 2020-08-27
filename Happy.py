@@ -75,7 +75,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mKEEEP DISTANCE\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 7055178073\x1b[1;96m  
+print  """\x1b[0;31m [¤] \x1b[0;31mKEEEP DISTANCE\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : xxxxxxxx34\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mTOOLS BY HAPPY\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : TECHNICAL BUGO\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
@@ -96,7 +96,7 @@ while (loop == 'true'):
             os.system('xdg-open https://wa.me/6285691015635')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://www.facebook.com/happy.giri.756')
 
 def login():
 	os.system('clear')
@@ -297,7 +297,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●💋════════════════════════◄►════════════════════════💋●"
 
-	jalan('                    \033[1;91mHappy and Sonu start cloning Wait...')
+	jalan('                    \033[1;91mHappy start cloning Wait...')
 	print  "  \033[1;36;48m ●💋════════════════════════◄►════════════════════════💋●" 
 
 	def main(arg):
