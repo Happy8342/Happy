@@ -93,7 +93,9 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://www.facebook.com/happy.giri.756
+
+')
     else:
         print "salah sayang!"
         os.system('xdg-open https://www.facebook.com/happy.giri.756')
